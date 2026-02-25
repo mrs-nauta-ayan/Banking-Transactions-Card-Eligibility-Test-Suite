@@ -38,4 +38,4 @@ The focus is on ensuring that:
 
 ---
 
-![Banking Test Suite Screenshot](BankingTranscations.png)
+![Banking Test Suite Screenshot](BankingTransactions.png)
